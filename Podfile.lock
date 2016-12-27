@@ -1,0 +1,12 @@
+PODS:
+  - JTAppleCalendar (6.0.1)
+
+DEPENDENCIES:
+  - JTAppleCalendar (~> 6.0)
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: 7793cd7284a495ed72b0cad225c1be835eefa018
+
+PODFILE CHECKSUM: e87a67f95930b987f8d3f7ca035f336d470a7212
+
+COCOAPODS: 1.1.0
